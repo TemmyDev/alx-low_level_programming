@@ -4,7 +4,7 @@
 /**
  * main - main block
  * Descrption: prints all base numbers of 10
- *
+ * Return : 0
  */
 int main(void)
 {
