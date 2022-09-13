@@ -2,11 +2,10 @@
 
 /**
  * print_alphabet - print lowercase
- * Description: Print
  * Return: 0
  */
 
-int main(void)
+void print_alphabet(void)
 {
 	char alphabet;
 

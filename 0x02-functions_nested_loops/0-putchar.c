@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - main block
- * Return: 0
+ * Return: nothing
  */
 
 int main(void)
@@ -24,5 +24,5 @@ _putchar('r');
 
 _putchar('\n');
 
-return (0)
+return (0);
 }
